@@ -13,7 +13,7 @@ Since there are no additional dependencies required, the installation is straigh
 
 ## Example
 Using a Pixel 7 Pro Simulator you should see the following screen when running the app:
-[SCREENSHOT](path/to/screenshot)
+![Screenshot of the Keyboard Validation Screen](documentation/screenshots/secure_keyboards_android_pixel_7.png)
 
 ## Acknowledgements
 The code of this project is used in the "Privacy Keyboards" article on Medium [URL](https://www.medium.de). Please check out the article for more information on the topic of privacy in the context of Android keyboards.
